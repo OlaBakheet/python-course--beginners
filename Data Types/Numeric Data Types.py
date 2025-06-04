@@ -5,4 +5,4 @@ var4 = 12+3j   # complex data type
 
 print("var1= ", var1, ", type is: ", type(var1))
 
-Rename file for syntax highlighting
+

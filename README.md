@@ -1,11 +1,5 @@
 # python-course--beginners
-# This includes codes for the basics of python
-# syntax - variables - data types - comments - control flow - 
-# My Code Example
+# This includes code for the basics of python
+# syntax - variables - data types - comments -operators- control fl ow - functions - files handling
 
-Here is a Python function:
-
-```python
-def say_hello():
-    print("Hello, world!")
 
